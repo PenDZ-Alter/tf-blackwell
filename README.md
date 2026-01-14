@@ -24,4 +24,4 @@ Using built wheels of tensorflow with support RTX 50 Series
 
 ### Special Thanks
 
-Thanks to @(nhsmit) for building the tensorflow for suppoting RTX 50 Series
+Thanks to [@nhsmit](https://github.com/nhsmit) for building tensorflow to suppoting RTX 50 Series
