@@ -1,0 +1,11 @@
+tensorflow[and-cuda]
+scikit-learn
+scikit-metrics
+scikit-image
+matplotlib
+seaborn
+kagglehub[pandas-datasets]
+kaggle
+ipykernel
+jupyter
+notebook
