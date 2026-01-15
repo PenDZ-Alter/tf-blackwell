@@ -21,6 +21,24 @@ Using built wheels of tensorflow with support RTX 50 Series
     docker run -it --rm --gpus all -p 8888:8888 tf-any
     ```
 ---------------------------------------
+## Using Docker Compose
+
+1. Download tensorflow wheel
+    
+    You can download it from [here](https://github.com/nhsmit/tensorflow-rtx-50-series/releases/tag/2.20.0dev)
+
+2. For the first time, run this command : 
+
+    ```bash
+    docker compose up -d --build
+    ```
+
+3. If you want to running as usual, use this command : 
+
+    ```bash
+    docker compose up -d
+    ```
+
 
 ### Special Thanks
 
