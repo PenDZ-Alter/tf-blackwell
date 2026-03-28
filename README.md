@@ -30,7 +30,7 @@ Using built wheels of tensorflow with support RTX 50 Series
 
 1. Download tensorflow wheel
     
-    You can download it from [here](https://github.com/nhsmit/tensorflow-rtx-50-series/releases/tag/2.20.0dev)
+    You can download it from [here](https://github.com/PenDZ-Alter/tf-blackwell/releases/download/tf-sb_dev_0.1/tensorflow-2.22.0.dev0+selfbuilt-cp312-cp312-linux_x86_64.whl)
 
 2. Build Dockerfile : 
 
@@ -48,7 +48,7 @@ Using built wheels of tensorflow with support RTX 50 Series
 
 1. Download tensorflow wheel
     
-    You can download it from [here](https://example.com)
+    You can download it from [here](https://github.com/PenDZ-Alter/tf-blackwell/releases/download/tf-sb_dev_0.1/tensorflow-2.22.0.dev0+selfbuilt-cp312-cp312-linux_x86_64.whl)
 
 2. For the first time, run this command : 
 
@@ -61,5 +61,3 @@ Using built wheels of tensorflow with support RTX 50 Series
     ```bash
     docker compose up -d
     ```
-
-### Special Thanks
