@@ -12,7 +12,7 @@ Using built wheels of tensorflow with support RTX 50 Series
 2. Build Dockerfile : 
 
     ```bash
-    docker build -t tf-any .
+    docker build -t tf-blackwell .
     ```
 
 3. Run the container : 

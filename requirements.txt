@@ -1,4 +1,3 @@
-tensorflow[and-cuda]
 scikit-learn
 scikit-metrics
 scikit-image
