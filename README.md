@@ -13,7 +13,7 @@ Using built wheels of tensorflow with support RTX 50 Series
 ### Software Stack
 
 - Distro/OS : Arch Linux
-- Tensorflow Version : 2.20.0.dev0
+- Tensorflow Version : 2.22.0.dev0
 - Python : 3.12
 
 ### Nvidia Acceleration
